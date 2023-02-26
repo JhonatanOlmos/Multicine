@@ -1,0 +1,253 @@
+*{
+    margin: 0;
+    padding: 0px;
+}
+
+body{
+    background-color: rgb(108, 46, 167);
+    background-size:cover;
+    color:#100b12;
+
+}
+
+.portada_fondo{ 
+    background-color: black;
+
+    width: 150%;
+    height: 350px;
+    padding: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.portada_delante{
+    background:url(../img/portada.jpg) no-repeat;
+    background-size:cover;
+        width: 1250px;
+        height: 390px;
+
+    margin-top: -390px;
+    margin-left: 110px;
+    display: flex;
+}
+
+
+.cine{
+    background-color: none; 
+    background-size: cover;
+    font-size: 35px;
+    width: 390;
+    height: 100px;
+    padding: 20px;
+    margin-top: 0px;
+    margin-left: 580;
+}
+.sesion{
+    background: url(../img/img17.png)no-repeat;
+    background-size: cover;
+    font-size: 28px;
+    width: 210px;
+    height: 10px;
+    padding: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    border-radius: 15px;
+
+}
+.registrate{
+    background: url(../img/img17.png)no-repeat;
+    background-size: cover;
+    font-size: 28px;
+    width: 210px;
+    height: 10px;
+    padding: 20px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-left: 770px;
+    margin-right: 0px;
+    border-radius: 15px;
+
+}
+
+.cartelera{
+    font-size: 30px;
+    background: url(../img/img19.jfif);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    width: 1300px;
+    height: 60px;
+    padding: 20px;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: right;
+    color: rgb(216, 156, 65);
+    font-family: 'Courier New', Courier, monospace;
+}
+.peli1{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: 15px;
+    margin-bottom: 0px;
+    margin-left: 110px;
+    margin-right: 0px;
+}
+
+.peli2{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: -290px;
+    margin-bottom: 0px;
+    margin-left: 340px;
+    margin-right: 0px;
+}
+.peli3{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: -290px;
+    margin-bottom: 0px;
+    margin-left: 570px;
+    margin-right: 0px;
+}
+.peli4{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: -290px;
+    margin-bottom: 0px;
+    margin-left: 800px;
+    margin-right: 0px;
+}
+.peli5{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: -290px;
+    margin-bottom: 0px;
+    margin-left: 1030px;
+    margin-right: 0px;
+}
+.peli6{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: 15px;
+    margin-bottom: 0px;
+    margin-left: 110px;
+    margin-right: 0px;
+}
+.peli7{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: -290px;
+    margin-bottom: 0px;
+    margin-left: 340px;
+    margin-right: 0px;
+}
+.peli8{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: -290px;
+    margin-bottom: 0px;
+    margin-left: 570px;
+    margin-right: 0px;
+}
+.peli9{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: -290px;
+    margin-bottom: 0px;
+    margin-left: 800px;
+    margin-right: 0px;
+}
+.peli10{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: -290px;
+    margin-bottom: 0px;
+    margin-left: 1030px;
+    margin-right: 0px;
+}
+.peli11{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: 15px;
+    margin-bottom: 0px;
+    margin-left: 110px;
+    margin-right: 0px;
+}
+.peli12{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: -290px;
+    margin-bottom: 0px;
+    margin-left: 340px;
+    margin-right: 0px;
+}
+.peli13{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: -290px;
+    margin-bottom: 0px;
+    margin-left: 570px;
+    margin-right: 0px;
+}
+.peli14{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: -290px;
+    margin-bottom: 0px;
+    margin-left: 800px;
+    margin-right: 0px;
+}
+.peli15{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: -290px;
+    margin-bottom: 0px;
+    margin-left: 1030px;
+    margin-right: 0px;
+}
+
+
+
+
+
+
+
+
+
+
